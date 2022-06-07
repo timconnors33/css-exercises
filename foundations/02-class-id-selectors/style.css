@@ -1,0 +1,19 @@
+.oddNumberedElement {
+  background-color: rgb(252, 138, 148);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddNumberedElementCool {
+  font-size: 24px;
+}
+
+#secondElement {
+  color: #00ff;
+  font-size: 36px;
+}
+
+#forthElement {
+  background-color: hsl(125, 100%, 70%);
+  font-size: 24px;
+  font-weight: bold;
+}
